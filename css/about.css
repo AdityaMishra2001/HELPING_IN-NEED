@@ -1,0 +1,23 @@
+body {
+    font-family: sans-serif, 'Courier New', Courier, monospace, 'Times New Roman', Times, serif, Verdana, Geneva, Tahoma, sans-serif;
+    font-size: 1em;
+    line-height: 1.5em;
+    background-color: floralwhite;
+    background-image: url("images/bg1.jpg");
+    background-size: 100%;
+    max-width: 100%;
+    margin: 0 auto;
+}
+
+h1 {
+    text-align: center;
+    text-transform: uppercase;
+    padding-top: 20px;
+    color: white;
+    font-family: sans-serif, 'Courier New', Courier, monospace, 'Times New Roman', Times, serif, Verdana, Geneva, Tahoma, sans-serif;
+}
+
+img {
+    width: 85%;
+    padding: 10px;
+}
